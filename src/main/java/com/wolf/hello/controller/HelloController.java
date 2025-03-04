@@ -16,4 +16,9 @@ public class HelloController {
         return "Esta es segunda prueba";
     }
 
+    @RequestMapping("/getLeyes")
+    public String getLeyes() {
+        return "Esta es segunda prueba";
+    }
+
 }
