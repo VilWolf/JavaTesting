@@ -1,4 +1,4 @@
-package com.wolf.hello.game;
+package com.wolf.game;
 
 public class GameRunner {
 

@@ -1,12 +1,7 @@
-package com.wolf.hello;
+package com.wolf.game;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import com.wolf.hello.game.GameRunner;
-import com.wolf.hello.game.MarioGame;
-import com.wolf.hello.game.PacmanGame;
-import com.wolf.hello.game.SuperContraGame;
 
 @SpringBootApplication
 public class HelloApplication {
